@@ -1,1 +1,3 @@
 *.pyc
+maps/*
+recorded_trackfiles/*
